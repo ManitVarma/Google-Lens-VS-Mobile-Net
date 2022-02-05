@@ -1,0 +1,27 @@
+.img{
+    height: 120px;
+    width: 120px;
+}
+#comparo{
+    color: white;
+    box-shadow: 5px 5px 5px orange;
+}
+#heading{
+    text-align: center;
+    color: rgb(0, 247, 226);
+    border-radius: 10px;
+    float: none;
+    font-size: 18px;
+}
+.copy_right_footer{
+    color: white;
+    bottom: 0;
+    position: fixed;
+    line-height: 3;
+    width: 100%;
+    text-align: center;
+    background-color: goldenrod;
+}
+.object{
+    background-color: orange;
+}
