@@ -25,3 +25,9 @@
 .object{
     background-color: orange;
 }
+.Result{
+    padding: 20px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    border: 2px solid orangered;
+}
